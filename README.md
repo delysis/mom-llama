@@ -1,5 +1,11 @@
 # Mom Llama
 
+> **Canonical development has moved.** Mom Llama now lives in
+> [`delysis/native-platform`](https://github.com/delysis/native-platform/tree/w6-import-mom-v0-2026-08-13/products/mom)
+> at the protected `w6-import-mom-v0-2026-08-13` milestone. This repository is
+> retained, unarchived, as immutable source history. Land features and security
+> fixes in the monorepo first.
+
 Mom Llama is the canonical native, local-first chat product. This repository
 owns its Rust product runtime, CLI, command/effect contracts, evidence receipts
 and Tauri/Maud interface.
